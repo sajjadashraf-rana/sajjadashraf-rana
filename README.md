@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sajjadashraf-rana, I'm Fresher. Today Date is 20/10/2024
+- 👋 Hi, I’m @sajjadashraf-rana, I'm Fresher. Today is Sunday 20/10/2024 
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Git
 - 💞️ I’m looking to collaborate on ...
